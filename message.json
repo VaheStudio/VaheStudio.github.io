@@ -1,11 +1,12 @@
 [
   {
     "id": "msg001",
-    "title": "社区开源项目贡献指南发布",
+    "title": "为什么社区不能直接发布",
     "category": "announcement",
     "author": "管理员",
     "date": "2024-05-15T10:30:00",
-    "content": "大家好，我是Vahe工作室的创始人，很高兴大家可以浏览我们团队的网站 \n VaheStudio创始人",
-    "images": ["pr-process.png"]
+    "content": "我是VaheStudio创始人，对于这个问题，是因为我们使用的Github Page静态部署的，而对于数据传输，需要后端动态辅助，不过我们在未来，我们会修复这个问题的。",
+    "images": ["637486ss.png"]
   }
+
 ]
