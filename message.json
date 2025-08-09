@@ -14,12 +14,13 @@
   },
   {
     "id": "homemade-cat-toy",
-    "title": "5分钟自制猫咪羽毛玩具",
-    "category": "pet-diy",
-    "author": "喵星人改造家",
+    "title": "为什么社区不能直接发布",
+    "category": "announcement",
+    "author": "VaheStudio创始人",
     "date": "2025-08-09T10:30:00",
-    "content": "分享一个简单的猫咪羽毛玩具制作方法，材料在家就能找到：\n\n1. 准备材料：旧羽毛球、弹性绳、木棍、热熔胶\n2. 将羽毛球的羽毛部分剪下\n3. 用热熔胶将羽毛固定在弹性绳一端\n4. 另一端固定在木棍上\n5. 等待胶水干透即可使用\n\n注意：玩耍时请全程监督，避免猫咪误食羽毛。",
-    "images": ["cat-toy-making.jpg", "finished-toy.jpg"],
-    "tags": ["猫咪玩具", "快速制作", "废物利用"]
+    "content": "我是VaheStudio创始人，对于这个问题，是因为我们使用的Github Page静态部署的，而对于数据传输，需要后端动态辅助，不过我们在未来，我们会修复这个问题的。",
+    "images": ["cat_bag_diy_001.jpg"],
+    "tags": ["NO", "NO", "NO"]
   }
 ]
+
